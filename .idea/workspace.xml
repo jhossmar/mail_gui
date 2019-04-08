@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc8f83b-a97f-4e83-a140-4615c307dcbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/PrincipalView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/PrincipalView.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +19,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/vista/PrincipalView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="238">
+              <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,13 +48,14 @@
         <option value="$PROJECT_DIR$/src/login_view.form" />
         <option value="$PROJECT_DIR$/src/vista/Principal.java" />
         <option value="$PROJECT_DIR$/src/vista/MainTemp.java" />
-        <option value="$PROJECT_DIR$/src/vista/PrincipalView.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/vista/principal.form" />
+        <option value="$PROJECT_DIR$/src/vista/PrincipalView.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
+    <option name="x" value="-5" />
     <option name="y" value="26" />
     <option name="width" value="683" />
     <option name="height" value="718" />
@@ -69,6 +73,17 @@
             <path>
               <item name="mail_gui" type="b2602c69:ProjectViewProjectNode" />
               <item name="mail_gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mail_gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail_gui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mail_gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail_gui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vista" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,14 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554710411616</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Diseño de paneles y componentes basicos">
+      <created>1554710458605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554710458605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="26" width="1376" height="723" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29407296" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5387538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -171,14 +193,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281787" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3270869" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37989777" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38316151" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32841328" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3253833" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3253833" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -226,14 +248,26 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/login_view.java" />
     <entry file="file://$PROJECT_DIR$/src/login_view.form" />
-    <entry file="file://$PROJECT_DIR$/src/vista/PrincipalView.java">
+    <entry file="file://$PROJECT_DIR$/out/production/mail_gui/vista/MainTemp.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail_gui.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#barra_of_menu#0;class#PrincipalView#0" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vista/principal.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vista/principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -244,16 +278,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/mail_gui/vista/MainTemp.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail_gui.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/vista/PrincipalView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="238">
+          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
