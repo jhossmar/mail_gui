@@ -1,0 +1,85 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9cc8f83b-a97f-4e83-a140-4615c307dcbf\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/login_view.form\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/login_view.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <ignored path=\"$PROJECT_DIR$/out/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"DefaultGradleProjectSettings\">\n    <option name=\"testRunner\" value=\"GRADLE\" />\n    <option name=\"delegatedBuild\" value=\"true\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf>\n      <file pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/login_view.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"105\">\n              <caret line=\"8\" lean-forward=\"true\" selection-start-line=\"8\" selection-end-line=\"8\" />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/login_view.form\">\n          <provider selected=\"true\" editor-type-id=\"ui-designer\" />\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/login_view.form\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectFrameBounds\">\n    <option name=\"x\" value=\"10\" />\n    <option name=\"y\" value=\"46\" />\n    <option name=\"width\" value=\"1346\" />\n    <option name=\"height\" value=\"678\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"PackagesPane\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"mail_gui\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"mail_gui\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"Scope\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH\" value=\"159\" />\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"9cc8f83b-a97f-4e83-a140-4615c307dcbf\" name=\"Default Changelist\" comment=\"\" />\n      <created>1554702774450</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1554702774450</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"proyecto inicial\">\n      <created>1554703004206</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1554703004206</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"10\" y=\"46\" width=\"1346\" height=\"678\" extended-state=\"0\" />\n    <editor active=\"true\" />\n    <layout>\n      <window_info id=\"Image Layers\" />\n      <window_info id=\"Designer\" />\n      <window_info id=\"UI Designer\" />\n      <window_info id=\"Capture Tool\" />\n      <window_info id=\"Favorites\" side_tool=\"true\" />\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.20451011\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" weight=\"0.32841328\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" weight=\"0.38191882\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Run\" order=\"2\" visible=\"true\" weight=\"0.32841328\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\n      <window_info anchor=\"right\" id=\"Palette\" />\n      <window_info anchor=\"right\" id=\"Theme Preview\" />\n      <window_info anchor=\"right\" id=\"Maven\" />\n      <window_info anchor=\"right\" id=\"Capture Analysis\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n    </layout>\n    <layout-to-restore>\n      <window_info id=\"Image Layers\" order=\"0\" />\n      <window_info id=\"Designer\" order=\"1\" />\n      <window_info id=\"UI Designer\" order=\"2\" />\n      <window_info id=\"Capture Tool\" order=\"3\" />\n      <window_info id=\"Favorites\" order=\"4\" side_tool=\"true\" />\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"5\" visible=\"true\" weight=\"0.2496112\" />\n      <window_info id=\"Structure\" order=\"6\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"0\" weight=\"0.32841328\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"1\" visible=\"true\" weight=\"0.38191882\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"2\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"3\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"4\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"5\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"6\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"7\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"8\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"9\" />\n      <window_info anchor=\"right\" id=\"Palette\" order=\"0\" />\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"1\" />\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"2\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"3\" />\n      <window_info anchor=\"right\" id=\"Maven\" order=\"4\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"5\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"6\" weight=\"0.25\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"7\" weight=\"0.25\" />\n    </layout-to-restore>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"proyecto inicial\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"proyecto inicial\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/login_view.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"105\">\n          <caret line=\"8\" lean-forward=\"true\" selection-start-line=\"8\" selection-end-line=\"8\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/login_view.form\">\n      <provider selected=\"true\" editor-type-id=\"ui-designer\" />\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ArtifactsStructureConfigurable.UI\">\n        <settings>\n          <artifact-editor />\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"FacetStructureConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ModuleStructureConfigurable.UI\">\n        <settings>\n          <last-edited>mail_gui</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n                <option value=\"0.6\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1554704027000)
++++ .idea/workspace.xml	(date 1554703964000)
+@@ -3,8 +3,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="9cc8f83b-a97f-4e83-a140-4615c307dcbf" name="Default Changelist" comment="">
+       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/login_view.form" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/login_view.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+@@ -19,22 +17,7 @@
+     <option name="delegatedBuild" value="true" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/login_view.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="105">
+-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/login_view.form">
+-          <provider selected="true" editor-type-id="ui-designer" />
+-        </entry>
+-      </file>
+-    </leaf>
++    <leaf />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -122,21 +105,20 @@
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="10" y="46" width="1346" height="678" extended-state="0" />
+-    <editor active="true" />
+     <layout>
+       <window_info id="Image Layers" />
+       <window_info id="Designer" />
+       <window_info id="UI Designer" />
+       <window_info id="Capture Tool" />
+       <window_info id="Favorites" side_tool="true" />
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20451011" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20451011" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info anchor="bottom" id="Version Control" weight="0.32841328" />
++      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32841328" />
+       <window_info anchor="bottom" id="Terminal" weight="0.38191882" />
+       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32841328" />
++      <window_info anchor="bottom" id="Run" order="2" weight="0.32841328" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+@@ -185,13 +167,16 @@
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/src/login_view.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="105">
++        <state relative-caret-position="120">
+           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/login_view.form">
+       <provider selected="true" editor-type-id="ui-designer" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/mail_gui.iml">
++      <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+   </component>
+   <component name="masterDetails">
