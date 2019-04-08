@@ -131,7 +131,7 @@ public class PrincipalView extends JFrame {
                 SpringLayout.WEST, medium_down_panel);
         sp.putConstraint(SpringLayout.EAST, txt_date, 300,
                 SpringLayout.WEST, medium_down_panel);
-        //CUADRO DE TEXTO PARA LOS APELLIDOS
+        //CUADRO DE TEXTO PARA LOS Subject
         txt_subjet = new JTextField();
         medium_down_panel.add(txt_subjet);
         sp.putConstraint(SpringLayout.NORTH, txt_subjet, 90, SpringLayout.NORTH, medium_down_panel);
